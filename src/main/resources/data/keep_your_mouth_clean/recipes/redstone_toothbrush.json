@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UI ",
+    "I#I",
+    " IW"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "U": {
+      "item": "minecraft:feather"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "keep_your_mouth_clean:redstone_toothbrush",
+    "count": 1
+  }
+}

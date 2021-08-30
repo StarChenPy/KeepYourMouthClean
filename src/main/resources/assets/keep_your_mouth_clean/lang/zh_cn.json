@@ -1,0 +1,14 @@
+{
+  "itemGroup.keep_your_mouth_clean": "保持口腔洁净！",
+
+  "tooltip.keep_your_mouth_clean.redstone_toothbrush": "§7这！ 就！ 是！ 红石科技！",
+
+  "item.keep_your_mouth_clean.toothbrush": "牙刷",
+  "item.keep_your_mouth_clean.redstone_toothbrush": "红石动力牙刷",
+  "item.keep_your_mouth_clean.toothpaste": "牙膏",
+  "item.keep_your_mouth_clean.powerful_abrasive_paste": "强效研磨膏",
+
+  "effect.keep_your_mouth_clean.tooth_decay": "蛀牙",
+  "effect.keep_your_mouth_clean.damaged_mouth": "口腔受损",
+  "effect.keep_your_mouth_clean.clean_mouth": "口腔洁净"
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.keep_your_mouth_clean": "Keep Your Mouth Clean！",
+
+  "tooltip.keep_your_mouth_clean.redstone_toothbrush": "§7This is Redstone Technology!",
+
+  "item.keep_your_mouth_clean.toothbrush": "Toothbrush",
+  "item.keep_your_mouth_clean.redstone_toothbrush": "Redstone Toothbrush",
+  "item.keep_your_mouth_clean.toothpaste": "Toothpaste",
+  "item.keep_your_mouth_clean.powerful_abrasive_paste": "Powerful Abrasive Paste",
+
+  "effect.keep_your_mouth_clean:tooth_decay": "Tooth Decay",
+  "effect.keep_your_mouth_clean.damaged_mouth": "Damaged Mouth",
+  "effect.keep_your_mouth_clean.clean_mouth": "Healthy Mouth"
+}

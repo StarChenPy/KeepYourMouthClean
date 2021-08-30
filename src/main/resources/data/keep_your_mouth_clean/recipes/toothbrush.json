@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "U  ",
+    "#--"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal"
+    },
+    "U": {
+      "item": "minecraft:feather"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "keep_your_mouth_clean:toothbrush",
+    "count": 1
+  }
+}

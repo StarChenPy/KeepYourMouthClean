@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "*# ",
+    "#O#",
+    " #W"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:iron_nugget"
+    },
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "O": {
+      "item": "minecraft:coal"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "keep_your_mouth_clean:toothpaste",
+    "count": 1
+  }
+}
